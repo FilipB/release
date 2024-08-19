@@ -7,7 +7,7 @@ build_root:
   image_stream_tag:
     name: maistra-builder
     namespace: ci
-    tag: upstream-1.22
+    tag: upstream-1.23
   use_build_cache: true
 releases:
   arm64-latest:
